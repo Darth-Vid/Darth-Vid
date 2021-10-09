@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Darth-Vid
-- 👀 I’m interested in WEB API developmetn with ASP.NET and also playing videogames :P
+- 👀 I’m interested in WEB API developmetn with ASP.NET and also in playing videogames :P
 - 🌱 I’m currently learning Angular to use my API's on different devices
 - 📫 You can find me in https://www.linkedin.com/in/david-rodriguez-00b04784/ and also in https://www.instagram.com/montajeszacatecas/
